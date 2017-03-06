@@ -3,5 +3,5 @@
  */
 public class GitTest {
 
-    //someone and js merge commit
+    //js another commit
 }
