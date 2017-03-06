@@ -11,4 +11,7 @@ public class GitTest {
 
     //master commit3
     //master commit4
+
+    //test1 branch commit3
+    //test1 branch commit4
 }
