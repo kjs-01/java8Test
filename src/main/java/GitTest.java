@@ -5,4 +5,5 @@ public class GitTest {
 
     //someone2 and js another commit
     //master commit1
+    //master commit2
 }
