@@ -25,4 +25,5 @@ public class GitTest {
 
     //test1 branch commit5
     //test1 branch commit6
+    //test1 branch commit7
 }
