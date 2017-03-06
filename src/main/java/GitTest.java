@@ -6,4 +6,6 @@ public class GitTest {
     //someone2 and js another commit
     //master commit1
     //master commit2
+    //test1 branch commit1
+    //test1 branch commit2
 }
