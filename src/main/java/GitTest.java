@@ -8,4 +8,5 @@ public class GitTest {
     //master commit3
 
     //test2 commit1
+    //test2 commit2
 }
