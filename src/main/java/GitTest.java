@@ -3,5 +3,5 @@
  */
 public class GitTest {
 
-    //master commit
+    //someone commit
 }
