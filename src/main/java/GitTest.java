@@ -18,5 +18,6 @@ public class GitTest {
 
     //dummy commit
     //master commit5
+    //master commit6
 
 }
