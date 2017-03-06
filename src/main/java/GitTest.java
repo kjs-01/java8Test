@@ -10,4 +10,5 @@ public class GitTest {
     //test1 branch commit2
 
     //master commit3
+    //master commit4
 }
