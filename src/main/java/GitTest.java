@@ -3,5 +3,6 @@
  */
 public class GitTest {
 
-    //test1 commit
+    //someone2 and js another commit
+    //test1 branch commit1
 }
